@@ -23,7 +23,4 @@ A simple **JavaScript beginner project** that generates random and secure passwo
 - CSS
 - JavaScript
 
----
-
-## 📂 Folder Structure
 
